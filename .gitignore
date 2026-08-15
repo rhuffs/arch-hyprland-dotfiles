@@ -1,0 +1,17 @@
+# Dados pessoais
+*.log
+
+# Cache
+.cache/
+.local/
+
+# Segredos
+.env
+*.key
+*.pem
+
+# Histórico do shell
+fish/fish_history
+
+# Configurações específicas da máquina
+hypr/monitors.conf
