@@ -13,6 +13,8 @@ Minha configuração pessoal do Arch Linux utilizando Hyprland e Caelestia.
 ## 🖥️ Meu Desktop
 
 ![Arch Linux + Hyprland](./screenshots/desktop.png)
+
+![Arch Linux + Hyprland](./screenshots/terminal.png)
 ## 📁 Estrutura
 
 ```text
