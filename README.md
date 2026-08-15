@@ -33,3 +33,6 @@ Minha configuração pessoal do Arch Linux utilizando Hyprland e Caelestia.
 | Super + X     | Forçar encerramento     |
 | Super + L     | Bloquear tela           |
 
+## 🖥️ Meu Desktop
+
+![Arch Linux + Hyprland](./screenshots/desktop.png)
